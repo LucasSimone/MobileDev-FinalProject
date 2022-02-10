@@ -1,0 +1,18 @@
+{
+    "signup": "Sign Up",
+    "username": "Username",
+    "password": "Password",
+    "dateOfBirth": "Date of Birth",
+    "profilePicture": "Profile Photo",
+    "selectPhoto": "Select Photo",
+    "takePhoto": "Take Photo",
+    "pleaseSetPP": "Please set a profile picture",
+    "forgotPass": "Forget Password?",
+    "signUp": "Sign Up",
+    "alreadyHaveAccount": "Already have an account  ",
+    "signIn": "Sign In",
+    "pleaseEVU": "Please enter a valid username",
+    "pleaseEVP": "Please enter a valid password",
+    "pleaseEVD": "Please enter a valid date"
+
+}

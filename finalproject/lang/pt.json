@@ -1,0 +1,19 @@
+{
+    "signup": "Inscrever-se",
+    "username": "Nome do usuário",
+    "password": "Senha",
+    "dateOfBirth": "Data de nascimento",
+    "profilePicture": "Foto de perfil",
+    "selectPhoto": "Selecione a foto",
+    "takePhoto": "Tirar fotos",
+    "pleaseSetPP": "Defina uma foto de perfil",
+    "forgotPass": "Esqueceu a senha?",
+    "signUp": "Inscrever-se",
+    "alreadyHaveAccount": "Já tem uma conta  ",
+    "signIn": "Assinar em",
+    "pleaseEVU": "Por favor insira um nome de usuário válido",
+    "pleaseEVP": "Por favor coloque uma senha válida",
+    "pleaseEVD": "Por favor insira uma data válida"
+
+
+}

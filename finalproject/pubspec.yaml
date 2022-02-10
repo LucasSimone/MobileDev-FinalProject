@@ -1,0 +1,56 @@
+name: finalproject
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+  sqflite:
+  cloud_firestore:
+  image_picker:
+  firebase_storage:
+  firebase_core:
+  camera:
+  path_provider:
+  path: ^1.7.0
+  provider:
+  flutter_local_notifications:
+  shared_preferences:
+  geolocator: ^5.3.1
+  swipedetector: 1.2.0
+  flutter_map:
+  flutter_map_marker_popup:
+  latlong:
+  screenshot: ^0.2.0
+  gallery_saver:
+  charts_flutter: 
+
+
+  flutter_localizations:
+    sdk: flutter
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/
+    - lang/en.json
+    - lang/pt.json
+  uses-material-design: true
+
+flutter_icons:
+  android: 'launcher_icon'
+  ios: true
